@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Update the sitemap URL after you publish on your real domain.
+Sitemap: https://YOUR-DOMAIN-HERE/sitemap.xml
