@@ -1,4 +1,1 @@
-# app-ads.txt for Bubble Shooter - Ocean Glow
-# Replace the placeholder line below with your actual authorized seller entry from AdMob.
-# Format:
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-4473049909156624, DIRECT, f08c47fec0942fa0
